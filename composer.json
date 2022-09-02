@@ -1,0 +1,32 @@
+{
+    "name": "evgeniy/tutu-ru-test",
+    "description": "Logic test tasks from tutu.ru.",
+    "homepage": "https://github.com/kinderjoga/tutu-ru-test",
+    "type": "tasks",
+    "autoload": {
+        "psr-4": {
+            "Evgeniy\\TutuRuTest\\": "src/"
+        },
+        "files": [
+            "src/Treasure.php",
+            "src/Evilclown.php",
+            "src/Hipsters.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Evgeniy Lapin",
+            "email": "lapin.ey@outlook.com",
+            "role": ""
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.14"
+    },
+    "bin": [
+        "bin/test-evilclown",
+        "bin/test-hipsters",
+        "bin/test-treasure"
+    ]
+}
