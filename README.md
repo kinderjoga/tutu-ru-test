@@ -1,6 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/604e62040e54a9079df5/maintainability)](https://codeclimate.com/github/kinderjoga/tutu-ru-test/maintainability)
 <h1><a><span>tutu-ru-test</span></a></h1>
-<p>Данный код является решением тестового задания на позицию backend-разработчик</p>
+<p>Данный код является решением тестового задания на позицию backend-разработчик <a href="https://github.com/tutu-ru/php-interview">портала tutu.ru</a></p></p>
 
 <h2><a><span></span></a> Для запуска кода используйте MAKE</h2>
  <h3><a><span></span></a>Хипстеры в лофте</h3>
